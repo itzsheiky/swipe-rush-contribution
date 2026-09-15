@@ -16,7 +16,7 @@ This repository contains my contributed and modified version of the project. I d
 
 Original repository: [Arti-Stix/swipe-rush](https://github.com/Arti-Stix/swipe-rush)
 
-Original project credit and copyright status are preserved: **Arti-Stix + contributors; All rights reserved.**
+Original project credit and copyright status are preserved: **Arti-Stix + itzsheiky ; All rights reserved.**
 
 ## Run locally
 
